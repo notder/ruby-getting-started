@@ -2,6 +2,7 @@
 
 heroku login
 heroku logs --app [APP_NAME]
+RAILS_ENV=test bundle exec rspec
 
 A barebones Rails app, which can easily be deployed to Heroku.
 
