@@ -1,5 +1,8 @@
 # ruby-getting-started
 
+heroku login
+heroku logs --app [APP_NAME]
+
 A barebones Rails app, which can easily be deployed to Heroku.
 
 This application supports the [Getting Started on Heroku with Ruby](https://devcenter.heroku.com/articles/getting-started-with-ruby) article - check it out.
